@@ -40,7 +40,7 @@ System Transition Threshold: TP ≥ 0.52
 The theory is operationalized through seven governing equations that link micro-level agent transmissions to macro-level network phase transitions.
 
 # Quick Start
-For Analysts & Policymakers: One-Minute Diagnostic
+Rapidly calculate the transition potential for contemporary cities or organizations, with built-in Bayesian-calibrated parameters for the digital era.: One-Minute Diagnostic
 A simplified tool allows you to get a diagnostic by inputting 15 proxy variables.
 
 Clone the repository:
