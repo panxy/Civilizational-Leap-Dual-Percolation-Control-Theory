@@ -155,8 +155,8 @@ If Shang Theory informs your work, please cite it as follows:
 
 bibtex
 @software{shang_theory_2025,
-  author = {Chongqing·2025},
-  title = {Shang Theory: A Dual-Percolation Control Theory of Civilizational Transition},
+  author = {panxy},
+  title = {Civilizational Leap Dual-Percolation Control Theory},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
