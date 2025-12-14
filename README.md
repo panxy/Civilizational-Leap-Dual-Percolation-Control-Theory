@@ -46,7 +46,7 @@ A simplified tool allows you to get a diagnostic by inputting 15 proxy variables
 Clone the repository:
 
 bash
-git clone https://github.com/Chongqing-2025/shang-theory.git
+git clone https://github.com/panxy/Civilizational-Leap-Dual-Percolation-Control-Theory.git
 cd shang-theory
 Provide your data: Open quick_diagnostic.py in a text editor. In the input_data dictionary at the top, replace the 15 example values with data for your city or organization.
 
@@ -160,7 +160,7 @@ bibtex
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Chongqing-2025/shang-theory}},
+  howpublished = {\url{(https://github.com/panxy/Civilizational-Leap-Dual-Percolation-Control-Theory)}},
   version = {3.2}
 }
 
