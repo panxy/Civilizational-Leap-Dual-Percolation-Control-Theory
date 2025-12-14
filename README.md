@@ -8,7 +8,7 @@ Core Proposition: Civilizational outcomes are determined by a race between two p
 
 This project transforms historical narrative into real-time, intervenable systems engineering, providing a quantitative dashboard for the health of societies, organizations, and digital communities.
 
-Table of Contents
+# Table of Contents
 Core Concepts
 
 Quick Start
@@ -23,7 +23,7 @@ Prediction Registry & Observation
 
 License
 
-Core Concepts
+# Core Concepts
 Shang Theory 3.2 defines "Shang" as the endogenous infrastructure for cross-period, codifiable energy-packet transmission that emerges within intelligent groups under survival or prosperity pressures. It models civilizations as a dual-network competitive system:
 
 Network	Driving Mechanism	Macro Metric
@@ -39,7 +39,7 @@ System Transition Threshold: TP ≥ 0.52
 
 The theory is operationalized through seven governing equations that link micro-level agent transmissions to macro-level network phase transitions.
 
-Quick Start
+# Quick Start
 For Analysts & Policymakers: One-Minute Diagnostic
 A simplified tool allows you to get a diagnostic by inputting 15 proxy variables.
 
@@ -98,7 +98,7 @@ Explore the Full Case Library: All raw data, calculation processes, and detailed
 
 We are looking for: researchers, data scientists, policy analysts, DAO builders, and all who believe in the power of collaborative intelligence.
 
-Responsible Use Statement
+# Responsible Use Statement
 SHANG Theory is a complex systems model for analyzing civilizational dynamics and potential transition or collapse risks. It is designed to provide early warning signals and intervention insights, not to serve as a direct basis for political decision-making or value judgments.
 
 All users are expected to adhere to the following core principles:
@@ -134,7 +134,7 @@ We hope SHANG Theory will serve as a valuable instrument for fostering resilient
 
 
 
-Prediction Registry & Global Observation
+# Prediction Registry & Global Observation
 To practice the scientific principles of "transparency" and "falsifiability," we initiate the SHANG Prediction Registry.
 
 1. Submit Your Prediction
@@ -150,7 +150,7 @@ The project will regularly (quarterly) publish a Global TP & Connectivity Report
 Goal: To establish a continuously observable, publicly auditable record, transforming theoretical development into an open, cumulative, global collaborative process.
 
 
-How to Cite
+# How to Cite
 If Shang Theory informs your work, please cite it as follows:
 
 bibtex
@@ -164,7 +164,7 @@ bibtex
   version = {3.2}
 }
 
-📜 License
+# License
 This transformative work is open to the world under the MIT License. See the LICENSE file for details.
 
 Theory. Measured. Engineered. — This is more than a model; it's an invitation to participate in the responsible understanding and steering of our complex systems.
