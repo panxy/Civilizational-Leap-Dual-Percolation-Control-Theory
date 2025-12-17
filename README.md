@@ -1,6 +1,5 @@
-# Civilizational-Leap-Dual-Percolation-Control-Theory
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Status-Active%2520Research-blue
+# Civilizational-Leap-Dual-Percolation-Control-Theory（Ideal Model）
+
 Shang Theory : An operational, open-source framework modeling civilizational dynamics. It applies dual-percolation theory and Bayesian-calibrated thresholds to diagnose transition risks in societies, cities, and DAOs via a quantitative governance dashboard. For researchers in complex systems, computational social science, and governance.
 A computable framework modeling societal leap or collapse as a phase transition in competing collaboration networks. From ancient empires to digital DAOs.
 
